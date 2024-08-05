@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript and sql
 - 💞️ I’m looking to collaborate on any proyect
 - 📫 How to reach me alexander.scarlet@outlook.com
-- 😄 Pronouns: he/she doesn't matter really
+- 😄 Pronouns: he/she doesn't really matter
 - ⚡ Fun fact: i can learn any programation language in record time
 
 <!---
